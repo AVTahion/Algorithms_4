@@ -25,7 +25,7 @@ namespace Algorithms_4
     class Program
     {
         /// <summary>
-        /// Метод выводит массив[][] в консоль
+        /// Метод выводит массив[,] в консоль
         /// </summary>
         /// <param name="arr"></param>
         static void Print(int[,] arr)
