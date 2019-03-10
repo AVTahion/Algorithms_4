@@ -16,9 +16,6 @@ using System.Threading.Tasks;
     Александр Кушмилов
 */
 
-//W(a, b) = W(a – 1, b) + W(a, b – 1), если Map[a][b] = 1,
-//W(a, b) = 0, если Map[a][b] = 0.
-
 
 namespace Algorithms_4
 {
